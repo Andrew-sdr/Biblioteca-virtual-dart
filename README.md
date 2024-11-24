@@ -1,1 +1,1 @@
-A sample command-line application providing basic argument parsing with an entrypoint in `bin/`.
+Exemplo de uma biblioteca virtual em linha de comando com um ponto de entrada em `bin/`.
